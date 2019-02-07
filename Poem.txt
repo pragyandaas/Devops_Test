@@ -6,3 +6,4 @@ Green
 Pink
 Yellow
 Purple
+This is all about Rainbow.
